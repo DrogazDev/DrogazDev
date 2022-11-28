@@ -4,4 +4,5 @@
 - 🌱 Currently vibing my way thru projects.
 - 📫 You can add me on discord: Drogaz#6521
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrogazDev)](https://github.com/anuraghazra/github-readme-stats)
