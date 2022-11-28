@@ -2,7 +2,8 @@
 - 📚 Skills: Back-End PHP, Minecraft Java, FiveM/RedM Lua, Webdesign, UI & UIX, Video Editing. 
 - 🔭 I’m currently working on Drogaz API, A Hypixel Skyblock API with unique features.
 - 🌱 Currently vibing my way thru projects.
-- 📫 You can add me on discord: Drogaz#6521
+
+https://img.shields.io/badge/Discord-Drogaz%236521-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/860107847722336277 
 
 ### Languages and Tools:
 
