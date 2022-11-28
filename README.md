@@ -1,6 +1,5 @@
 ### Hi there, I'm Thijs - aka Drogaz 👋
 
-##About
 - 📚 Skills: Back-End PHP, Minecraft Java, FiveM/RedM Lua, Webdesign, UI & UIX, Video Editing. 
 - 🔭 I’m currently working on Drogaz API, A Hypixel Skyblock API with unique features.
 - 🌱 Currently vibing my way thru projects.
