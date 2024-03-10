@@ -4,7 +4,7 @@ I am a passionate developer from the Netherlands, currently working as a Backend
 
 Favorite Languages / Frameworks:
 
-- ![Laravel](https://laravel.com/) (PHP)
+- [Laravel](https://laravel.com/) (PHP)
 - Lua (FiveM)
 - Java (Minecraft Plugins)
 
