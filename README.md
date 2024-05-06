@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thijs</h1>
 
-I am a passionate developer from the Netherlands, currently working as a Backend Developer.
+I am a passionate developer from the Netherlands, currently working on serveral private java plugins
 
 Favorite Languages / Frameworks:
 
