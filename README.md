@@ -7,8 +7,6 @@
 <br />
 
  <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
     <img src="https://skillicons.dev/icons?i=laravel,lua,java,tailwind,py&theme=dark" />
     <img src="https://skillicons.dev/icons?i=vscode,idea,figma,discordjs,kali&theme=dark" />
-  </a>
  </p>  
